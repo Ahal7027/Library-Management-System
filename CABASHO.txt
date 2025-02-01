@@ -1,0 +1,16 @@
+Asc ustaad wan ku salamay waxan raba ina ku shego 
+in problem naga qabsaday dhanka github kaso ah
+in marka an code wax yar qornaba an rabno ina (commit) gareyno uu naga didayo
+dhibato dher kadib waxa xalka ka dhignay in an file_ka zip_ka dhigno 
+ka dibna an dhanka github ka soo sarno  sababta an u doranay ina zip 
+ka dhigno waxey tahay ustaad ma ogala in file cadi sida (public file) 
+oo kale mala soo galin karo waxa una raba in gudaha loo galo kadib 
+lasoo dorto waxa ku jiro ee an file aheyn  
+
+
+GROUP 2  Topic:library managament system
+
+Team leader (Abdirahman Nor Mohamed)                     ID c1210040
+member(Abdirahman mohamed Abdizamad)                     ID c1210009
+member(Awale Abdi Awale)                                 ID c1210661
+member(sharmake Abdi Ahmed)                              ID c1210018
